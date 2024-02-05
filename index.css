@@ -92,11 +92,12 @@
     font-weight: 700;
 
 }
-.nav-lang-img{;
+.nav-lang-img{
     width:20px;
 }
 .nav-lang-img img{
     width: 100%;
+    height: 300px;
 }
 /** Box 5 **/
 span{
@@ -155,7 +156,7 @@ span{
 }
 /**** hero section ****/
 .hero-section{
-    background-image: url(/CLASSROOM/Amazon/hero_image.jpg);
+    background-image: url(/amazon-clone/hero_image.jpg);
     height: 300px;
     background-size: cover;
     display: flex;
